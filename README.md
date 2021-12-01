@@ -4,6 +4,7 @@ nho21a@my.fsu.edu or ha21h@my.fsu.edu
 
 # TopKDiversitySearch
 Database Systems Research Paper Programming Implementation
+https://arxiv.org/pdf/1208.0076.pdf
 
 
 # Requirements:

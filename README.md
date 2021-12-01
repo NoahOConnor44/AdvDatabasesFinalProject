@@ -1,3 +1,7 @@
+# ==> Regarding commit history <==
+We did our project on a private repo so we had to move it to a public one. If you want to see the private repo we can add you by your github email just let us know.
+nho21a@my.fsu.edu or ha21h@my.fsu.edu
+
 # TopKDiversitySearch
 Database Systems Research Paper Programming Implementation
 
